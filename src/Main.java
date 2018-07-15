@@ -12,6 +12,9 @@ public class Main {
 
         System.out.println(building);
 
+        Kırmızı daire içinde "j" 
+
+
 
     }
 }
