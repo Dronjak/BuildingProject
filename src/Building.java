@@ -28,8 +28,8 @@ public class Building {
 
     public String toString(){
         String str;
-        str = "Elevator1 is on the floor :" + E1.getCurrentFloor() + "  Elevator2 is on the floor :" + E2.getCurrentFloor() +
-                " Elevator3 is on the floor :" + E3.getCurrentFloor();
+        str = "Elevator1 is on the floor :" + E1.getCurrentFloor() + "\n Elevator2 is on the floor :" + E2.getCurrentFloor() +
+                "\n Elevator3 is on the floor :" + E3.getCurrentFloor();
 
         return str;
 
